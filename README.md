@@ -77,4 +77,4 @@ More on QuecPython websocket client here: https://developer.quectel.com/doc/quec
 
 ## License
 
-MIT License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
