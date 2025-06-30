@@ -28,8 +28,8 @@ A simple WebSocket server implementation for QuecPython modules, with optional c
 
 ### Usage
 
-1. Power on your module and ensure `_main.py` runs automatically.
-2. The server will start on port `8080` by default.
+1. Power on your module and run `_main.py` or change the name to `main.py` so the program will run automatically.
+2. The server will start on port `8080` by default, but you can set the port you want to be used.
 3. To stop the server, type `q` in the module’s serial console and press Enter.
 
 #### Testing with a Browser
@@ -78,7 +78,3 @@ More on QuecPython websocket client here: https://developer.quectel.com/doc/quec
 ## License
 
 MIT License
-
----
-
-**Note:** This project is intended for educational and testing purposes on QuecPython modules.
